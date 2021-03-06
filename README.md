@@ -1,5 +1,5 @@
 # Web-Scraping
-python scripts to get data on drugs prices and stock/distribution from open web sources
+python scripts to get data on pharmaceuticals prices and stock/distribution from open web sources
 
 # bystrum_pr.py 
 - extracts data on Bystrumgel prices and stock/distribution in pharmacies from the website http://poisklekarstv.ru/
